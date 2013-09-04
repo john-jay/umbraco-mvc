@@ -1,0 +1,1 @@
+2013-09-03 23:22:09,363 [28] INFO  umbraco.BusinessLogic.Log - [Thread 24] Log scrubbed.  Removed all items older than 2013-07-05 23:22:09
